@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm an **AI researcher, developer, and musician** on a mission to teach AGI music. I believe artificial general intelligence should not only **appreciate** and **understand** music but also **compose** it.  
 
 ### 🚀 What I'm Working On  
-- 🎵 **YuE** – an open and powerful **music generation foundation model**.  
+- 🎵 **[YuE](https://github.com/multimodal-art-projection/YuE)** – an open and powerful **music generation foundation model**.  
 - 🎤 Leading **music/audio research** at the [Multimodal Art Projection (MAP) Research Community](https://huggingface.co/m-a-p). 
 - 🎓 I earned my Master's at **CMU** and am currently pursuing a **PhD at HKUST**.  
 - ⚡ Fun fact: I love pushing the boundaries of AI + music—so much that I sneak music-related problems into AI benchmarks, e.g. [MMMU](https://huggingface.co/datasets/MMMU/MMMU), [OmniBench](https://github.com/multimodal-art-projection/OmniBench).
