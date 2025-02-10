@@ -27,10 +27,11 @@ I'm an **AI researcher, developer, and musician** on a mission to teach AGI musi
 I'm always open to collaboration and new ideas. If you're excited about AI and music, join our [Discord](https://discord.gg/Z8ZHxS44uE) and create something amazing!
 
 Potential topics:
+- A publicly available lyrics2song dataset.
 - A better diffusion upsampler for YuE.
 - An evaluation metric for musicality.
-- A music arena for popular music generation systems.
 - Injecting more controls into YuE.
+- A music arena for popular music generation systems.
 
 ### ☕ Buy Me A Coffee
 https://buymeacoffee.com/ruibin
