@@ -27,11 +27,11 @@ I'm an **AI researcher, developer, and musician** on a mission to teach AGI musi
 I'm always open to collaboration and new ideas. If you're excited about AI and music, join our [Discord](https://discord.gg/Z8ZHxS44uE) and create something amazing!
 
 Potential topics:
-- 🎤 **A publicly available Lyrics2Song dataset**.  
-- 🎚️ **Better diffusion upsampling for YuE** – improving audio fidelity and resolution.  
-- 🎵 **An evaluation metric for musicality**.  
-- 🎛️ **Injecting more controls into YuE**.  
-- ⚔️ **A music arena for popular AI music systems**.  
+- A publicly available Lyrics2Song dataset.  
+- Better diffusion upsampling for YuE – improving audio fidelity and resolution.  
+- An evaluation metric for musicality.  
+- Injecting more controls into YuE.  
+- A music arena for popular AI music systems.  
 - 🌍 **NMLB (No Music Left Behind)** – a large-scale project to collect all human music (not just western music) and build **music understanding & generation models** on top of it.  
 
 ### ☕ Buy Me A Coffee
