@@ -25,3 +25,6 @@ I'm an **AI researcher, developer, and musician** on a mission to teach AGI musi
 
 ### 🌟 Let's Build Together  
 I'm always open to collaboration and new ideas. If you're excited about AI and music, join our [Discord](https://discord.gg/Z8ZHxS44uE) and create something amazing!
+
+### ☕ Buy Me A Coffe 
+https://buymeacoffee.com/ruibin
