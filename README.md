@@ -32,7 +32,7 @@ Potential topics:
 - An evaluation metric for musicality.  
 - Injecting more controls into YuE.  
 - A music arena for popular AI music systems.  
-- 🌍 **NMLB (No Music Left Behind)** – a large-scale project to collect all human music (not just western music) and build **music understanding & generation models** on top of it.  
+- 🌍 **NMLB (No Music Left Behind)** – a large-scale project to collect all human music (not just western music) and build **OPEN music understanding & generation models** on top of it.  
 
 ### ☕ Buy Me A Coffee
 https://buymeacoffee.com/ruibin
