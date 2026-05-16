@@ -11,12 +11,12 @@ I'm an **AI researcher, developer, and musician** trying my best to teach AGI mu
 
 - **[YuE](https://github.com/multimodal-art-projection/YuE)**: open full-song music generation foundation model, in the direction of systems such as Suno and Udio but open.
 - **Qwen Music**: foundation model research for music generation and music understanding in the Qwen-Omni series.
-- **[Multimodal Art Projection Research Community](https://huggingface.co/m-a-p)**: open language, music, and multimodal model training, data collection, benchmarks, and releases.
+- **[Multimodal Art Projection Research Community](https://huggingface.co/m-a-p)**: open language, music, and multimodal foundation models, data collection, benchmarks, and releases.
 - **Benchmarks and music intelligence**: projects including MERT, MARBLE, ChatMusician, MMMU/CMMMU, COIG, and OmniBench.
 
 ### Let's Build Together
 
-I'm always open to collaboration with people who care about open music AI, large-scale training, evaluation, and creative tools. Current ideas I'm especially excited about:
+I'm always open to collaboration with people who care about open music AI, foundation models, evaluation, and creative tools. Current ideas I'm especially excited about:
 
 - A public Lyrics2Song dataset.
 - Better diffusion upsampling for YuE, especially fidelity and resolution.
