@@ -3,7 +3,6 @@
 I'm an **AI researcher, developer, and musician** trying my best to teach AGI music. I believe artificial general intelligence should not only understand and appreciate music, but also compose, perform, and reason about it as a first-class creative medium.
 
 [Personal homepage](https://a43992899.github.io) ·
-[CV](https://a43992899.github.io/files/Ruibin_Yuan_CV.pdf) ·
 [Google Scholar](https://scholar.google.com/citations?user=Qd_hX1cAAAAJ) ·
 [MAP](https://huggingface.co/m-a-p) ·
 [GitHub](https://github.com/a43992899)
