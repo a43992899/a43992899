@@ -1,32 +1,40 @@
-## Hi, I'm Ruibin Yuan
+<!--
+**a43992899/a43992899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I'm an **AI researcher, developer, and musician** trying my best to teach AGI music. I believe artificial general intelligence should not only understand and appreciate music, but also compose, perform, and reason about it as a first-class creative medium.
+Here are some ideas to get you started:
 
-[Personal homepage](https://a43992899.github.io) ·
-[Google Scholar](https://scholar.google.com/citations?user=Qd_hX1cAAAAJ) ·
-[MAP](https://huggingface.co/m-a-p) ·
-[GitHub](https://github.com/a43992899)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-### What I'm Working On
+## 👋 Hi, I'm Ruibin Yuan!
 
-- **[YuE](https://github.com/multimodal-art-projection/YuE)**: open full-song music generation foundation model, in the direction of systems such as Suno and Udio but open.
-- **Qwen Music**: foundation model research for music generation and music understanding in the Qwen-Omni series.
-- **[Multimodal Art Projection Research Community](https://huggingface.co/m-a-p)**: open language, music, and multimodal foundation models, data collection, benchmarks, and releases.
-- **Benchmarks and music intelligence**: projects including MERT, MARBLE, ChatMusician, MMMU/CMMMU, COIG, and OmniBench.
+I'm an **AI researcher, developer, and musician** on a mission to teach AGI music. I believe artificial general intelligence should not only **appreciate** and **understand** music but also **compose** it.
 
-### Let's Build Together
+🌐 **Personal Website:** [a43992899.github.io](https://a43992899.github.io)
 
-I'm always open to collaboration with people who care about open music AI, foundation models, evaluation, and creative tools. Current ideas I'm especially excited about:
+### 🚀 What I'm Working On
+- 🎵 **[YuE](https://github.com/multimodal-art-projection/YuE)** – an open and powerful **music generation foundation model**.
+- 🎤 Leading **music/audio research** at the [Multimodal Art Projection (MAP) Research Community](https://huggingface.co/m-a-p).
+- 🎓 I earned my Master's at **CMU** and am currently pursuing a **PhD at HKUST**.
+- ⚡ Fun fact: I love pushing the boundaries of AI + music—so much that I sneak music-related problems into AI benchmarks, e.g. [MMMU](https://huggingface.co/datasets/MMMU/MMMU), [OmniBench](https://github.com/multimodal-art-projection/OmniBench).
 
-- A public Lyrics2Song dataset.
-- Better diffusion upsampling for YuE, especially fidelity and resolution.
-- Better evaluation metrics for musicality.
-- More controllability for full-song generation.
+### 🌟 Let's Build Together
+I'm always open to collaboration and new ideas. If you're excited about AI and music, join our [Discord](https://discord.gg/Z8ZHxS44uE) and create something amazing!
+
+Potential topics:
+- A publicly available Lyrics2Song dataset.
+- Better diffusion upsampling for YuE – improving audio fidelity and resolution.
+- An evaluation metric for musicality.
+- Injecting more controls into YuE.
 - A music arena for popular AI music systems.
-- **NMLB (No Music Left Behind)**: collecting all human music, not only western music, and building open music understanding and generation models on top of it.
+- 🌍 **NMLB (No Music Left Behind)** – a large-scale project to collect **ALL** human music (not just western music) and build **OPEN music understanding & generation models** on top of it.
 
-If this sounds like your kind of trouble, join the [MAP Discord](https://discord.gg/Z8ZHxS44uE) or start from my [personal homepage](https://a43992899.github.io).
-
-### Support
-
-If my open-source work helps you, you can [buy me a coffee](https://buymeacoffee.com/ruibin).
+### ☕ Buy Me A Coffee
+https://buymeacoffee.com/ruibin
